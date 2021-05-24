@@ -1,0 +1,16 @@
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.exe
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.deps.json
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.runtimeconfig.json
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.runtimeconfig.dev.json
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.dll
+C:\source\codeworks\csday1\bin\Debug\net5.0\ref\csday1.dll
+C:\source\codeworks\csday1\bin\Debug\net5.0\csday1.pdb
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.csprojAssemblyReference.cache
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.AssemblyInfoInputs.cache
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.AssemblyInfo.cs
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.csproj.CoreCompileInputs.cache
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.dll
+C:\source\codeworks\csday1\obj\Debug\net5.0\ref\csday1.dll
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.pdb
+C:\source\codeworks\csday1\obj\Debug\net5.0\csday1.genruntimeconfig.cache
